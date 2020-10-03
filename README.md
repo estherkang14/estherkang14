@@ -2,7 +2,7 @@
 [![Header](https://github.com/estherkang14/estherkang14/blob/master/githubheader.png)](https://linkedin.com/in/esther-kang/)
 --> 
 
-[![Header](https://github.com/estherkang14/estherkang14/master/githubheader.png)](https://linkedin.com/in/esther-kang/)
+[![Header](https://github.com/estherkang14/estherkang14/blob/master/githubheader.png)](https://linkedin.com/in/esther-kang/)
 
 
 <!--
