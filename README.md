@@ -1,5 +1,7 @@
 <!--[![Header](https://raw.githubusercontent.com/estherkang14/<OWNER>/<OWNER>/githubheader.png "Header")](https://linkedin.com/in/esther-kang/) 
--->
+[![Header](https://github.com/estherkang14/estherkang14/blob/master/githubheader.png)](https://linkedin.com/in/esther-kang/)
+--> 
+
 [![Header](https://github.com/estherkang14/estherkang14/blob/master/githubheader.png)](https://linkedin.com/in/esther-kang/)
 
 
