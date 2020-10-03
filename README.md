@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/estherkang14/<OWNER>/<OWNER>/githubheader.png "Header")](https://linkedin.com/in/esther-kang/)
+
 
 <!--
 **estherkang14/estherkang14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
