@@ -10,8 +10,18 @@ flatiron mod1-5 projects + videos
 
 -->
 
-<h2 align="center">Hi everyone! My name is Esther Kang!</h2>
-<p align="center">I'm a [junior] Software Engineer and Full Stack Web Developer, a Dancer, an avid Traveller/Adventurer, and a Flatiron School graduate! I have a passion for helping others and the performing arts/entertainment industry.
+<h2>Hi everyone! My name is Esther Kang!</h2>
+<p>I'm a [junior] Software Engineer and Full Stack Web Developer, a Dancer, an avid Traveller/Adventurer, and a Flatiron School graduate! I have a passion for helping others and the performing arts/entertainment industry.
+  
+I have currently learned the following languages and frameworks:
+  - Ruby
+  - Ruby on Rails
+  - Javascript
+  - React
+  - React/Redux
+  - HTML
+  - CSS
+  - Material UI, Semantic UI
 
 I am currently open to new [junior] positions in the following locations:
   - Seoul, South Korea
