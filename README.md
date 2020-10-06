@@ -11,7 +11,7 @@ flatiron mod1-5 projects + videos
 -->
 
 <h2>Hi everyone! My name is Esther Kang!</h2>
-<p>I'm a [junior] Software Engineer and Full Stack Web Developer, a Dancer, an avid Traveller/Adventurer, and a Flatiron School graduate! I have a passion for helping others and the performing arts/entertainment industry.
+<p>I'm a [junior] Software Engineer and Full Stack Web Developer, a dancer, an avid traveller/adventurer, and a Flatiron School (FIS) graduate! I have a passion for helping others and the performing arts/entertainment industry.
   
 I have currently learned the following languages and frameworks:
   - Ruby
@@ -30,6 +30,15 @@ I am currently open to new [junior] positions in the following locations:
   - the DMV (D.C., Maryland, Virginia) area
 </p>
 
+<h3>Take a look at some of the projects I've worked on at FIS:</h3>
+<p>
+  1. 'yourday.' - An electronic journal/daily planner that keeps track of your daily life
+  2. 'Find My Ice Cream' - A React.js web app that searches for ice cream stores based off of city location
+  3. 'Foodiegram' - A Javascript social media web app that allows 'foodies' to post specifically about food
+  4. 'PokeTrade' - A Rails application that allows users to keep track of their Pokemon card collection with trade forum
+feature
+  5. 'CookIndex' - A CLI application that finds recipes based off ingredient input
+</p>
 
 <!--
 **estherkang14/estherkang14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
