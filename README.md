@@ -32,12 +32,12 @@ I am currently open to new [junior] positions in the following locations:
 
 <h3>Take a look at some of the projects I've worked on at FIS:</h3>
 <p>
-  1. 'yourday.' - An electronic journal/daily planner that keeps track of your daily life
-  2. 'Find My Ice Cream' - A React.js web app that searches for ice cream stores based off of city location
-  3. 'Foodiegram' - A Javascript social media web app that allows 'foodies' to post specifically about food
-  4. 'PokeTrade' - A Rails application that allows users to keep track of their Pokemon card collection with trade forum
+  - 'yourday.' - An electronic journal/daily planner that keeps track of your daily life
+  - 'Find My Ice Cream' - A React.js web app that searches for ice cream stores based off of city location
+  - 'Foodiegram' - A Javascript social media web app that allows 'foodies' to post specifically about food
+  - 'PokeTrade' - A Rails application that allows users to keep track of their Pokemon card collection with trade forum
 feature
-  5. 'CookIndex' - A CLI application that finds recipes based off ingredient input
+  - 'CookIndex' - A CLI application that finds recipes based off ingredient input
 </p>
 
 <!--
