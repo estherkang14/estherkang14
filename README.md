@@ -34,24 +34,11 @@ I am currently open to new [junior] positions in the following locations:
 <p>
   
   - 'yourday.' - An electronic journal/daily planner that keeps track of your daily life (<a href="https://github.com/estherkang14/mod5-proj-frontend">Frontend</a> | <a href="https://github.com/estherkang14/mod5-proj-backend">Backend</a>)
-  - 'Find My Ice Cream' - A React.js web app that searches for ice cream stores based off of city location
-  - 'Foodiegram' - A Javascript social media web app that allows 'foodies' to post specifically about food
+  - 'Find My Ice Cream' - A React.js web app that searches for ice cream stores based off of city location (<a href="https://github.com/estherkang14/ice-cream-app-frontend">Frontend</a> | <a href="https://github.com/mjester93/ice-cream-app-backend">Backend</a>)
+  - 'Foodiegram' - A Javascript social media web app that allows 'foodies' to post specifically about food (<a href="https://github.com/estherkang14/FoodieGramFE">Full Repo</a>)
   - 'PokeTrade' - A Rails application that allows users to keep track of their Pokemon card collection with trade forum
-feature
-  - 'CookIndex' - A CLI application that finds recipes based off ingredient input
+feature (<a href="https://github.com/estherkang14/poketrade">Full Repo</a>)
+  - 'CookIndex' - A CLI application that finds recipes based off ingredient input (<a href="https://github.com/DevDave0/Cookindex">Full Repo</a>)
 </p>
 
-<!--
-**estherkang14/estherkang14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
