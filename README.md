@@ -32,8 +32,6 @@ I am currently open to new [junior] positions in the following locations:
 
 <h3>Take a look at some of the projects I've worked on at FIS:</h3>
 <p>
-  - 'yourday.' - An electronic journal/daily planner that keeps track of your daily life
-  - 'Find My Ice Cream' - A React.js web app that searches for ice cream stores based off of city location
   
   - 'yourday.' - An electronic journal/daily planner that keeps track of your daily life
   - 'Find My Ice Cream' - A React.js web app that searches for ice cream stores based off of city location
