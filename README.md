@@ -1,4 +1,4 @@
-[![ekang personal graphic banner](https://github.com/estherkang14/estherkang14/blob/main/pictures/githubheader.png)]
+![ekang personal graphic banner](https://github.com/estherkang14/estherkang14/blob/main/pictures/githubheader.png)
 
 
 <!--
