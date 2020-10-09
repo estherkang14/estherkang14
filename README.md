@@ -1,6 +1,4 @@
-<!--[![Header](https://raw.githubusercontent.com/estherkang14/<OWNER>/<OWNER>/githubheader.png "Header")](https://linkedin.com/in/esther-kang/) 
--->
-[![Header](https://github.com/estherkang14/estherkang14/blob/main/pictures/githubheader.png)](https://linkedin.com/in/esther-kang/)
+[![ekang personal graphic banner](https://github.com/estherkang14/estherkang14/blob/main/pictures/githubheader.png)]
 
 
 <!--
@@ -8,6 +6,8 @@ add info - linkedin, github, twitter
 introduction + summary
 flatiron mod1-5 projects + videos
 -->
+
+[![linkedin](https://github.com/estherkang14/estherkang14/blob/main/pictures/linkedin.png)](https://linkedin.com/in/esther-kang/)
 
 <h2>Hi everyone! My name is Esther Kang!</h2>
 <p>I'm a [junior] Software Engineer and Full Stack Web Developer, a dancer, an avid traveller/adventurer, and a Flatiron School (FIS) graduate! I have a passion for helping others and the performing arts/entertainment industry.
