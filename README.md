@@ -32,7 +32,7 @@ I am open to new [junior] positions in the following locations:
 <h3>Take a look at some of the projects I've worked on at FIS:</h3>
 <p>
   
-  - 'yourday.' - An electronic journal/daily planner that keeps track of your daily life (<a href="https://github.com/estherkang14/mod5-proj-frontend">Frontend</a> | <a href="https://github.com/estherkang14/mod5-proj-backend">Backend</a>)
+  - 'yourday.' - An electronic journal/daily planner that keeps track of your daily life (<a href="https://github.com/estherkang14/mod5-proj-frontend">Frontend</a> | <a href="https://github.com/estherkang14/mod5-proj-backend">Backend</a> | <a href="https://vimeo.com/460177737">Video Demo</a>)
   - 'Find My Ice Cream' - A React.js web app that searches for ice cream stores based off of city location (<a href="https://github.com/estherkang14/ice-cream-app-frontend">Frontend</a> | <a href="https://github.com/mjester93/ice-cream-app-backend">Backend</a>)
   - 'Foodiegram' - A Javascript social media web app that allows 'foodies' to post specifically about food (<a href="https://github.com/estherkang14/FoodieGramFE">Full Repo</a>)
   - 'PokeTrade' - A Rails application that allows users to keep track of their Pokemon card collection with trade forum
