@@ -6,7 +6,9 @@ add info - linkedin, github, twitter
 introduction + summary
 flatiron mod1-5 projects + videos
 -->
+<div align="center">
 <a href="https://linkedin.com/in/esther-kang/"><img src="https://github.com/estherkang14/estherkang14/blob/main/pictures/linkedin.png" width=50 height=50></a> <a href="https://twitter.com/estherk_code"><img src="https://github.com/estherkang14/estherkang14/blob/main/pictures/twitter.png" width=50 height=50></a> <a href="https://medium.com/@estherkang14"><img src="https://github.com/estherkang14/estherkang14/blob/main/pictures/medium.png" width=50 height=50></a>
+</div>
 
 <h2>Hi everyone! My name is Esther Kang!</h2>
 <p>I'm a [junior] Software Engineer and Full Stack Web Developer, a dancer, an avid traveller/adventurer, and a Flatiron School (FIS) graduate! I have a passion for helping others and the performing arts/entertainment industry.
