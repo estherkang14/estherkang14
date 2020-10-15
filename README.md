@@ -1,7 +1,7 @@
 ![ekang personal graphic banner](https://github.com/estherkang14/estherkang14/blob/main/pictures/githubheader.png)
 
 <div align="center">
-<a href="https://linkedin.com/in/esther-kang/"><img src="https://github.com/estherkang14/estherkang14/blob/main/pictures/linkedin.png" width=40 height=40></a> <a href="https://twitter.com/estherk_code"><img src="https://github.com/estherkang14/estherkang14/blob/main/pictures/twitter.png" width=40 height=40></a> <a href="https://medium.com/@estherkang14"><img src="https://github.com/estherkang14/estherkang14/blob/main/pictures/medium.png" width=40 height=40></a>
+<a href="https://linkedin.com/in/esther-kang/"><img src="https://github.com/estherkang14/estherkang14/blob/main/pictures/linkedin.png" width=40 height=40></a> <a href="https://twitter.com/estherk_code"><img src="https://github.com/estherkang14/estherkang14/blob/main/pictures/twitter.png" width=40 height=40></a> <a href="https://medium.com/@estherkang14"><img src="https://github.com/estherkang14/estherkang14/blob/main/pictures/medium.png" width=40 height=40></a> <a href="mailto:estherkang14@gmail.com"><img src="https://github.com/estherkang14/estherkang14/blob/main/pictures/email.png" width=40 height=40></a>
 </div>
 <!-- test -->
 
