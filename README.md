@@ -10,7 +10,7 @@
 <p>I'm a [junior] Software Engineer and Full Stack Web Developer, a dancer, an avid traveller/adventurer, and a Flatiron School (FIS) graduate! I have a passion for helping others and the performing arts/entertainment industry.
   
 <h3>What I'm working on now:</h3>
-<p>While I'm job searching, I'm currently working on a project with some friends to bring another friend's family's restaurant to the world wide web! We'll be incorporating Stripe for online orders. I'm also strengthening my Javascript knowledge and looking into React Native, Node.js, and iOS development! 
+<p>While I'm job searching, I'm currently working on a project with some friends to bring another friend's family's restaurant to the world wide web with the goal of making online ordering available. I'm also strengthening my Javascript knowledge and looking into React Native, Node.js, and iOS development! 
   
   
 ## Languages and Frameworks:
