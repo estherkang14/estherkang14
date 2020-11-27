@@ -46,6 +46,7 @@ feature (<a href="https://github.com/estherkang14/poketrade">Full Repo</a> | <a 
   - the Greater Seattle, WA area 
   - the Greater Los Angeles and San Diego, CA areas
   - the DMV (D.C., Maryland, Virginia) area
+  - the New York City Metropolitan area
 
 
 
