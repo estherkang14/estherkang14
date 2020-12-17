@@ -34,7 +34,7 @@
 
   - 'yourday.' - An electronic journal/daily planner that keeps track of your daily life (<a href="https://github.com/estherkang14/mod5-proj-frontend">Frontend</a> | <a href="https://github.com/estherkang14/mod5-proj-backend">Backend</a> | <a href="https://vimeo.com/460177737">Video Demo</a>)
   - 'Find My Ice Cream' - A React.js web app that searches for ice cream stores based off of city location (<a href="https://github.com/estherkang14/ice-cream-app-frontend">Frontend</a> | <a href="https://github.com/mjester93/ice-cream-app-backend">Backend</a> | <a href="https://vimeo.com/460740989">Video Demo</a>)
-  - 'Foodiegram' - A Javascript social media web app that allows 'foodies' to post specifically about food (<a href="https://github.com/estherkang14/FoodieGramFE">Full Repo</a>)
+  - 'Foodiegram' - A Javascript social media web app that allows 'foodies' to post specifically about food (<a href="https://github.com/estherkang14/FoodieGramFE">Frontend</a> | <a href="https://github.com/DannyCoop/FoodieGramBE">Backend</a>)
   - 'PokeTrade' - A Rails application that allows users to keep track of their Pokemon card collection with trade forum
 feature (<a href="https://github.com/estherkang14/poketrade">Full Repo</a> | <a href="https://vimeo.com/437194426">Video Demo</a>)
   - 'CookIndex' - A CLI application that finds recipes based off ingredient input (<a href="https://github.com/DevDave0/Cookindex">Full Repo</a> | <a href="https://vimeo.com/430413060">Video Demo</a>)
