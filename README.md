@@ -14,6 +14,11 @@
   - While I'm job searching, I'm currently working on a project with some friends to bring another friend's family's restaurant to the world wide web with the goal of making online ordering available.
   - I am also working on my portfolio page. I have a basic one in progress, but I hope to combine my ideas for design with my skills in coding to create a portfolio that expresses my style and work.
   - I'm also strengthening my Javascript knowledge and looking into React Native, Node.js, and iOS development!
+  <!-- 
+  - While I'm job searching, I'm currently working on a project with some friends to bring another friend's family's restaurant to the world wide web with the goal of making online ordering available.
+  - I am also working on my portfolio page. I have a basic one in progress, but I hope to combine my ideas for design with my skills in coding to create a portfolio that expresses my style and work.
+  - I'm also strengthening my Javascript knowledge and looking into React Native, Node.js, and iOS development!
+-->
   
   
 ## Languages and Frameworks:
