@@ -53,5 +53,5 @@ feature (<a href="https://github.com/estherkang14/poketrade">Full Repo</a> | <a 
   - the DMV (D.C., Maryland, Virginia) area
   - the New York City Metropolitan area
 
-
+## If you wanna chat, feel free to contact me through my LinkedIn or E-mail, which you can find by clicking one of those cute little buttons above!
 
