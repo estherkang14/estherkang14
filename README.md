@@ -7,7 +7,7 @@
 
 ## Hi everyone! My name is Esther Kang!
 
-<p>I'm a [junior] Software Engineer and Full Stack Web Developer, a dancer, an avid traveller/adventurer, and a Flatiron School (FIS) graduate! I have a passion for helping others and the performing arts/entertainment/fashion industry.
+<p>I'm a Software Engineer and Full Stack Web Developer, a dancer, an avid traveller/adventurer, and a Flatiron School (FIS) graduate! I have a passion for helping others and the performing arts/entertainment/fashion industry.
 <br />
   
 <h3>What I'm working on now:</h3>
