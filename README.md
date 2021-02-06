@@ -52,8 +52,8 @@ feature (<a href="https://github.com/estherkang14/poketrade">Full Repo</a> | <a 
   - the Greater Los Angeles and San Diego, CA areas
   - the DMV (D.C., Maryland, Virginia) area
   - the New York City Metropolitan area
+  - Atlanta, GA
   
-  I'm currently on the search for any (Junior) Software Engineer/Full Stack or Front End (Web) Developer positions! I'm open to almost every industry because I love to learn and broaden my perspective, but my dream is to work in the following fields: Arts/Entertainment, Fashion, Health/Medical, Government - my main goal and purpose as an engineer is to help others and improve experiences, which can be done in virtually any industry :)
-
+  I'm currently on the search for any (Junior) Software Engineer/Full Stack or Front End (Web) Developer positions! I'm open to almost every industry because I love to learn and broaden my perspective, but my dream is to work in the following fields: Arts/Entertainment, Fashion, Health/Medical, Government - my main goal and purpose as an engineer is to help others and improve experiences, which can be done in virtually any industry :) 
 ## If you wanna chat, feel free to contact me through my LinkedIn or E-mail, which you can find by clicking one of those cute little buttons above!
 
