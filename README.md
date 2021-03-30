@@ -12,7 +12,7 @@
   
 ## What I'm working on now:
 
-  - While I'm job searching, I'm currently working on a project with some friends to bring another friend's family's restaurant to the world wide web with the goal of making online ordering available. We're working with a few frameworks I've never worked with before, so this is a great learning experience for me while also solidifying previous knowledge of React and Redux! I'm also going to learn how to implement and use Stripe as a payment source for the online ordering process and working very closely with UX designers to bring their designs to life with a whole bunch of personal CSS. 
+  - While I'm job searching, I'm currently working on a project with some friends to bring another friend's family's restaurant to the world wide web with the goal of making online ordering available. We're working with a few frameworks I've never worked with before, so this is a great learning experience for me while also solidifying previous knowledge of React and Redux! I'm also going to learn how to implement and use Stripe as a payment source for the online ordering process and working very closely with UX designers to bring their designs to life with a whole bunch of personal CSS. Though it's not completely finished, our website is now live! Check it out here: <a href="http://thekoopusa.com/">The Koop</a>
   - I am also working on my portfolio page. I have a basic one in progress, but I hope to combine my ideas for design with my skills in coding to create a portfolio that expresses my style and work. 
   - I'm also strengthening my Javascript knowledge and, in the future, will be looking into Node.js, Java, and iOS development!
 
