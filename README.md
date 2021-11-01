@@ -12,8 +12,7 @@
   
 ## What I'm working on now:
 
-  - While I'm job searching, I'm currently working on a project with some friends to bring another friend's family's restaurant to the world wide web with the goal of making online ordering available. We're working with a few frameworks I've never worked with before, so this is a great learning experience for me while also solidifying previous knowledge of React and Redux! I'm also going to learn how to implement and use Stripe as a payment source for the online ordering process and working very closely with UX designers to bring their designs to life with a whole bunch of personal CSS. Though it's not completely finished, our website is now live! Check it out here: <a href="http://thekoopusa.com/">The Koop</a>
-  - I am also working on my portfolio page. I have a basic one in progress, but I hope to combine my ideas for design with my skills in coding to create a portfolio that expresses my style and work. 
+  - I am  working on my portfolio page. I have a basic one in progress, but I hope to combine my ideas for design with my skills in coding to create a portfolio that expresses my style and work. 
   - I'm also strengthening my Javascript knowledge and, in the future, will be looking into Node.js, Java, and iOS development!
 
   
@@ -45,15 +44,13 @@ feature (<a href="https://github.com/estherkang14/poketrade">Full Repo</a> | <a 
   - 'CookIndex' - A CLI application that finds recipes based off ingredient input (<a href="https://github.com/DevDave0/Cookindex">Full Repo</a> | <a href="https://vimeo.com/430413060">Video Demo</a>)
 
 
-## I am open to new [junior] positions in the following locations:
+## I am open to [junior] positions in the following locations:
 
   - Seoul, South Korea
   - the Greater Seattle, WA area 
   - the Greater Los Angeles and San Diego, CA areas
   - the DMV (D.C., Maryland, Virginia) area
-  - the New York City Metropolitan area
-  - Atlanta, GA
   
-  I'm currently on the search for any (Junior) Software Engineer/Full Stack or Front End (Web) Developer positions! I value companies that have an emphasis in diversity and inclusion with goals of improving life for all people. I'm open to almost every industry because I love to learn and broaden my perspective, but my dream is to work in the following fields: Arts/Entertainment, Fashion, Health/Medical, Government - my main goal and purpose as an engineer is to help others and improve experiences, which can be done in virtually any industry :) 
+  I am currently not actively seeking new positions, but I'm always open to new opportunities of any kind! I value companies that have an emphasis in diversity and inclusion with goals of improving life for all people. I'm open to almost every industry because I love to learn and broaden my perspective, but my dream is to work in the following fields: Arts/Entertainment, Fashion, Health/Medical, Government - my main goal and purpose as an engineer is to help others and improve experiences, which can be done in virtually any industry :) 
 ## If you wanna chat, feel free to contact me through my LinkedIn or E-mail, which you can find by clicking one of those cute little buttons above!
 
